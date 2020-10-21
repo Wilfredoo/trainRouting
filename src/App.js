@@ -2,16 +2,8 @@ import React from "react";
 import "./App.css";
 
 // INSTRUCTIONS
-// Using react-router-dom, link all the components togethr according to this structure
-// Trains
-  // Ubahn
-    // U6
-    // U7
-    // U8
-  // Sbahn
-    // S1
-    // S2
-    // S41
+// Using react-router-dom, link all the components together according to the hints below
+
 
 function App() {
   return (
